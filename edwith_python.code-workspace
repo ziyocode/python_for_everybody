@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.fontLigatures": true,
+		"workbench.colorTheme": "Darcula Theme from IntelliJ",
+		"workbench.iconTheme": "material-icon-theme",
+		"terminal.integrated.fontWeightBold": "normal",
+		"editor.fontFamily": "Menlo",
+		"editor.fontWeight": "500"
+	}
 }
