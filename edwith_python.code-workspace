@@ -10,6 +10,7 @@
 		"workbench.iconTheme": "material-icon-theme",
 		"terminal.integrated.fontWeightBold": "normal",
 		"editor.fontFamily": "Menlo",
-		"editor.fontWeight": "500"
-	}
+		"editor.fontWeight": "500",
+		"editor.defaultFormatter": "ms-python.python"
+		}
 }
