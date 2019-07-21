@@ -9,8 +9,11 @@
 		"workbench.colorTheme": "Darcula Theme from IntelliJ",
 		"workbench.iconTheme": "material-icon-theme",
 		"terminal.integrated.fontWeightBold": "normal",
-		"editor.fontFamily": "Menlo",
-		"editor.fontWeight": "500",
-		"editor.defaultFormatter": "ms-python.python"
+		"editor.fontFamily": "D2Coding",
+		"editor.defaultFormatter": "ms-python.python",
+		"editor.fontSize": 16,
+		"debug.console.fontSize": 16,
+		"terminal.integrated.fontSize": 16,
+		"markdown.preview.fontSize": 16
 		}
 }
