@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"editor.fontLigatures": true,
-		"workbench.colorTheme": "Darcula Theme from IntelliJ",
+		"workbench.colorTheme": "Monokai Pro",
 		"workbench.iconTheme": "material-icon-theme",
 		"terminal.integrated.fontWeightBold": "normal",
 		"editor.fontFamily": "D2Coding",
